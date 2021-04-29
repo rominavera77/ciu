@@ -1,0 +1,8 @@
+.imperio { background: red; }
+.rebelde { background: blue; }
+#tamaño { font-size: xx-large; }
+#estilo-letra { font-style: italic; }
+.borde { border: solid; }
+.espaciado { letter-spacing: 2px; }
+.alineacion { text-align: center; }
+.mayuscula { text-transform: uppercase; }
