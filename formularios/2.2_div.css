@@ -6,3 +6,20 @@
 .espaciado { letter-spacing: 2px; }
 .alineacion { text-align: center; }
 .mayuscula { text-transform: uppercase; }
+
+# imperio {   
+	background: black;
+	color: red;
+}
+
+# rebeldes {
+	background: #ffa500;
+	color: rgb(255,255,255);
+}
+
+#lider { color: white; }
+#rebelde{ 
+	color: white;
+	background-size: 50px;
+	font-size: 30px;
+ }
